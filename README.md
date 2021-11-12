@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luca-bottero&layout=compact&langs_count=8&count_private=true&theme=radical"/>
 
 \
-<a href="https://www.linkedin.com/in/simoneazeglio/">
+<a href="https://www.linkedin.com/in/lucabotter_physics/">
   <img align="left" alt="kahanikaar's LinkdeIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v5.png"/>
 </a>
 
