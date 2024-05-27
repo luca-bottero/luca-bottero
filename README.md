@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 - ⚛️ Theorethical Physics Master Student at University of Turin, Italy
-- 🌱 Co-Founder of Clevi.co: AI and ML research and application
-- 🔬 Co-founder and currently Vice-President at Machine Learning Journal Club
-- 📫 How to reach me: luca.bottero192@edu.unito.it
+- 🌱 Developer and Consultant of Machine Learning and AI applications
+- 🔬 Co-founder at Machine Learning Journal Club
+- 📫 How to reach me: lucabottero99@gmail.com
