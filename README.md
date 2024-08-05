@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-- ⚛️ Theorethical Physics Master Student at University of Turin, Italy
-- 🌱 Developer and Consultant of Machine Learning and AI applications
-- 🔬 Co-founder at Machine Learning Journal Club
-- 📫 How to reach me: lucabottero99@gmail.com
+- ⚛️ **Theoretical Physics Master's Student** at the University of Turin, Italy
+- 🌱 **Developer and Consultant** specializing in Machine Learning and AI applications
+- 🔬 **Co-founder** of the Machine Learning Journal Club
+- 🛒 **Former Co-founder** of the Clevi startup
+- 📫 Reach me at: [lucabottero99@gmail.com](mailto:lucabottero99@gmail.com)
+
+---
+
+- 🔭 Passionate about exploring the intersection of **physics** and **artificial intelligence**
+- 🧩 Experienced in developing **complex algorithms** and **data-driven solutions**
+- 🚀 Always looking for **collaborative projects** and new **challenges**
+- 📚 Committed to **lifelong learning** and sharing knowledge with the community
+
+Let's connect and innovate together!
