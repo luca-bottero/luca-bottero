@@ -4,8 +4,8 @@
 - 🌱 **Developer and Consultant** specializing in Machine Learning and AI applications
 - 🔬 **Co-founder** of the Machine Learning Journal Club
 - 🛒 **Former Co-founder** of the Clevi startup
+- 🔎 For more informations: [luca-bottero.github.io](luca-bottero.github.io)
 - 📫 Reach me at: [lucabottero99@gmail.com](mailto:lucabottero99@gmail.com)
-
 ---
 
 - 🔭 Passionate about exploring the intersection of **physics** and **artificial intelligence**
