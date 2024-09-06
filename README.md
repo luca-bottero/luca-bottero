@@ -7,8 +7,6 @@
 - 🔎 For more informations: [luca-bottero.github.io](https://luca-bottero.github.io/)
 - 📫 Reach me at: [lucabottero99@gmail.com](mailto:lucabottero99@gmail.com)
 
-[![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=luca-bottero&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 - 🔭 Passionate about exploring the intersection of **physics** and **artificial intelligence**
@@ -16,4 +14,4 @@
 - 🚀 Always looking for **collaborative projects** and new **challenges**
 - 📚 Committed to **lifelong learning** and sharing knowledge with the community
 
-Let's connect and innovate together!
+[![trophy](https://github-profile-trophy.vercel.app/?username=luca-bottero)](https://github.com/ryo-ma/github-profile-trophy)
