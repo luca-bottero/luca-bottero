@@ -12,6 +12,6 @@
 - 🔭 Passionate about exploring the intersection of **physics** and **artificial intelligence**
 - 🧩 Experienced in developing **complex algorithms** and **data-driven solutions**
 - 🚀 Always looking for **collaborative projects** and new **challenges**
-- 📚 Committed to **lifelong learning** and sharing knowledge with the community
+- 📚 Committed to **lifelong learning** an **continous improvement**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=luca-bottero)](https://github.com/ryo-ma/github-profile-trophy)
