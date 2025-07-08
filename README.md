@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 Passionate about exploring the intersection of **physics** and **artificial intelligence**
+- 🔭 Passionate about exploring the intersection of **physics** and **artificial intelligence** and its applications
 - 🧩 Experienced in developing **complex algorithms** and **data-driven solutions**
 - 🚀 Always looking for **innovative projects** and new **challenges**
 - 📚 Committed to **lifelong learning** an **continous improvement**
