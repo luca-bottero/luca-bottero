@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚛️ **Theoretical Physics Master's Student** at the University of Turin, Italy
+- ⚛️ **Theoretical Physicist** graduated at the University of Turin, Italy
 - 🌱 **Developer and Consultant** specialized in Machine Learning and Artificial Intelligence
 - 🔬 **Co-founder** of the Machine Learning Journal Club
 - 🛒 **Former Co-founder** of the Clevi startup (project ended)
