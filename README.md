@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - ⚛️ **Theoretical Physicist** graduated at the University of Turin, Italy
-- 🦾 **Building** AIDA - AI for engineering
+- 🦾 **Building** ***AIDA*** - AI for engineering
+- 👔 **Building** ***SophIA*** - AI for fashion
 - 🌱 **Developer and Consultant** specialized in Machine Learning and Artificial Intelligence
 - 🔬 **Co-founder** of the Machine Learning Journal Club
 - 🛒 **Former Co-founder** of the Clevi startup (project ended)
