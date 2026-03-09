@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - ⚛️ **Theoretical Physicist** graduated at the University of Turin, Italy
+- ⚛️ **Optics and Quantum Information** master student at La Sapienza Università, Rome
 - 🦾 **Building** ***AIDA*** - AI for engineering
 - 👔 **Building** ***SophIA*** - AI for fashion
 - 🌱 **Developer and Consultant** specialized in Machine Learning and Artificial Intelligence
