@@ -2,8 +2,9 @@
 
 - ⚛️ **Theoretical Physicist** graduated at the University of Turin, Italy
 - ⚛️ **Optics and Quantum Information** master student at La Sapienza University, Rome
-- 🦾 **Building** ***AIDA*** - AI for engineering: **[link](https://aida.nousynth.com/)**
+- 🦾 **Building** ***AIDA*** - THE AI revolutionizing engineering: **[link](https://aida.nousynth.com/)**
 - 👔 **Building** ***SophIA*** - AI for fashion
+- 🚀 **Member** of Space Eagle, rocketry association
 - 🌱 **Developer and Consultant** specialized in Machine Learning and Artificial Intelligence
 - 🔬 **Co-founder** of the Machine Learning Journal Club
 - 🛒 **Former Co-founder** of the Clevi startup (project ended)
